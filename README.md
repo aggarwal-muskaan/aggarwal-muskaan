@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
 <img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF" alt="SASS/SCSS" />
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=FFFFFF" alt="Firebase" />
 </p>
 
-<h3>Visit my Portfolio <span><a href="https://aggarwal-muskaan.com" target="_blank"><img align="center" src="./assets/externalLink.png" alt="aggarwal-muskaan" width="25" height='25'/></a></span>
+<h3>Visit my Portfolio <span><a href="https://aggarwal-muskaan.com" target="_blank"><img align="center" src="./assets/externalLink.svg" alt="aggarwal-muskaan" width="25" height='25'/></a></span>
 </h3>
 
 <h3>
