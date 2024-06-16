@@ -46,6 +46,6 @@
 
 <h4 align='center'>
 		<a href="https://git.io/typing-svg">
-				<img src="https://readme-typing-svg.demolab.com?font=Lato&pause=600&color=ccaeab&center=true&vCenter=true&repeat=false&size=22&height=50&lines=Thank+you+for+visiting+me!" alt="Thank you for visiting me!" />
+				<img src="https://readme-typing-svg.demolab.com?font=Lato&pause=600&color=ccaeab&center=true&vCenter=true&size=22&height=50&lines=Thank+you+for+visiting+me!" alt="Thank you for visiting me!" />
 			</a>
 </h4>
