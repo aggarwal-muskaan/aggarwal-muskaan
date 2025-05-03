@@ -8,7 +8,7 @@
 
   <span>
 			<a href="https://git.io/typing-svg">
-				<img src="https://readme-typing-svg.demolab.com?font=Lato&pause=600&color=b6da70&center=true&vCenter=true&size=35&height=60&lines=👩🏻‍💻+Front+End+Engineer;💻+Javascript+Enthusiast;🖥️+Software+Developer;" alt="Front End Engineer" />
+				<img src="https://readme-typing-svg.demolab.com?font=Lato&pause=600&color=b6da70&center=true&vCenter=true&size=35&height=60&lines=Front+End+Engineer;Javascript+Enthusiast;Software+Developer;" alt="Front End Engineer" />
 			</a>
 	</span>
   </h1>
@@ -39,6 +39,9 @@
 
 <h3>Visit my Portfolio <span><a href="https://aggarwal-muskaan.com" target="_blank"><img align="center" src="./assets/externalLink.svg" alt="aggarwal-muskaan" width="25" height='25'/></a></span>
 </h3>
+
+
+![](https://komarev.com/ghpvc/?username=aggarwal-muskaan)
 
 <h3>
   Connect with me on   <span><a href="https://linkedin.com/in/aggarwal-muskaan" target="_blank"><img align="center" src="./assets/linkedin.svg" alt="aggarwal-muskaan" width="30" height='25'/></a></span>
