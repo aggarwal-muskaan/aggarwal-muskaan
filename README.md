@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=FFFFFF" alt="Firebase" />
 </p>
 
-<h3>Visit my Portfolio <span><a href="https://aggarwal-muskaan.com" target="_blank"><img align="center" src="./assets/externalLink.svg" alt="aggarwal-muskaan" width="25" height='25'/></a></span>
+<h3>Visit my Portfolio <span><a href="https://muskaan19.netlify.app/" target="_blank"><img align="center" src="./assets/externalLink.svg" alt="aggarwal-muskaan" width="25" height='25'/></a></span>
 </h3>
 
 
